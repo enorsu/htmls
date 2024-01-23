@@ -1,8 +1,8 @@
 
 
 
-function goto(url) {
-    window.location = url;
+function goto() {
+    window.location = "https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D";
 }
 
-setTimeout(goto("https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D") ,30000);
+setTimeout(goto ,30000);
